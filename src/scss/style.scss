@@ -18,7 +18,7 @@
   --h1-font-size: 2rem;
   --h2-font-size: 1.5rem;
   --h3-font-size: 1rem;
-  --normal-font-size: 0.813rem;
+  --normal-font-size: 0.613rem;
   --small-font-size: 0.8rem;
   --smaller-font-size: 0.75rem;
 
@@ -75,10 +75,10 @@ body.dark-theme {
 }
 /*========== Font size variables to scale cv ==========*/
 body.scale-cv {
-  --h1-font-size: 0.938rem;
-  --h2-font-size: 0.938rem;
-  --h3-font-size: 0.875rem;
-  --normal-font-size: 0.813rem;
+  --h1-font-size: 0.810rem;
+  --h2-font-size: 0.810rem;
+  --h3-font-size: 0.675rem;
+  --normal-font-size: 0.613rem;
   --small-font-size: 0.75rem;
   --smaller-font-size: 0.688rem;
 }
@@ -231,7 +231,6 @@ img {
   text-transform: uppercase;
   letter-spacing: 0.35rem;
   text-align: center;
-  margin-bottom: var(--mb-3);
 }
 
 /*========== LAYOUT ==========*/
